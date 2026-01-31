@@ -1,0 +1,133 @@
+0: 6.14
+1: Pukul
+2: GT LOAD (MW)
+3: GT LOAD (MVAR)
+4: FREK (Hz)
+5: FAKTOR DAYA
+6: Phasa R (Volt)
+7: Phasa S
+8: Phasa T
+9: Phasa R (kA)
+10: Phasa S (kA)
+11: Phasa T (kA)
+12: Tegangan (V)
+13: Arus (A)
+14: MPa
+15: MPa.1
+16: U(Deg.c)
+17: V (Deg. C)
+18: W (Deg. C)
+19: 1 (deg. C)
+20: 2 (deg. C)
+21: 1 (deg. C).1
+22: In (deg. C)
+23: In (deg. C).1
+24: Out (deg. C)
+25: Out (Deg. C)
+26: Tegangan (V).1
+27: Arus (A).1
+28: Tegangan (V).2
+29: Arus (A).2
+30: Discharge Pressure 1 (Mpa)
+31: Discharge Pressure 2 (Mpa)
+32: Discharge Pressure 3 (Mpa)
+33: Discharge Annulus (deg. C)
+34: Inlet Pressure Total (hPaA)
+35: Inlet Pressure Dyn (hPa)
+36: Inlet Temperature (deg. C)
+37: LVDT 1 (%)
+38: LVDT 2 (%)
+39: Flow (Kgh)
+40: FFD (FFD)
+41: Pressure Differential (kPa)
+42: Pressure SRV (MPa)
+43: Pressure Flow (MPa)
+44: Pressure Interstage (MPa)
+45: Temperature Flow (deg. C)
+46: Temperature Upstream (deg. C)
+47: LVDT 1 (%).1
+48: LVDT 2 (%).1
+49: LVDT 1 (%).2
+50: LVDT 2 (%).2
+51: Allow Spread (deg. C)
+52: MaxTx (deg C)
+53: MaxTx 2nd min (deg. C)
+54: MaxTx 3nd min (deg. C)
+55: Exhaust Temp (deg. C)
+56: In Press (MPa)
+57: Discharge Pressure (MPa)
+58: Flow 1 (L/min)
+59: Flow 2 (L/min)
+60: Speed
+61: TTXM (deg. C)
+62: GTXD1-1 (deg. C)
+63: GTXD1-2 (deg. C)
+64: GTXD1-3 (deg. C)
+65: GTXD1-4 (deg. C)
+66: GTXD1-5 (deg. C)
+67: GTXD1-6 (deg. C)
+68: GTXD1-7 (deg. C)
+69: GTXD1-8 (deg. C)
+70: GTXD1-9 (deg. C)
+71: GTXD1-10 (deg. C)
+72: GTXD1-11 (deg. C)
+73: GTXD1-12 (deg. C)
+74: GTXD1-13 (deg. C)
+75: GTXD1-14 (deg. C)
+76: GTXD1-15 (deg. C)
+77: GTXD1-16 (deg. C)
+78: GTXD1-17 (deg. C)
+79: GTXD1-18 (deg. C)
+80: 1 TE (deg. C)
+81: 2 EE (deg. C)
+82: 1 TE (deg. C).1
+83: 2 EE (deg. C).1
+84: First Stage FFWD 1FO-1 (deg. C)
+85: First Stage FFWD 1FO-2 (deg. C)
+86: First Stage AFT 1AO-1 (deg. C)
+87: First Stage AFT 1AO-2(deg. C)
+88: Second Stage FWD 2FO-1(deg. C)
+89: Second Stage FWD 2FO-2(deg. C)
+90: Second Stage AFT 2AO-1(deg. C)
+91: Second Stage AFT 2AO-2(deg. C)
+92: Third Stage FWD 3FO-1(deg. C)
+93: Third Stage FWD 3FO-2(deg. C)
+94: Third Stage AFT 3AO-1(deg. C)
+95: Third Stage AFT 3AO-2(deg. C)
+96: Turbine - Sebelum X-1A (um)
+97: Turbine - Sebelum Y-1B (um)
+98: Turbine - Sesudah X-2A (um)
+99: Turbine - Sesudah Y-2A (um)
+100: Reduction Gear Sebelum X-1A (um)
+101: Reduction Gear Sebelum Y-1B (um)
+102: Reduction Gear Sesudah X-4B (um)
+103: Reduction Gear Sesudah -4B (um)
+104: Generator Sebelum X - 4 (um)
+105: Generator Sebelum Y - 4 (um)
+106: Generator Sesudah X - 5 (um)
+107: Generator Sesudah Y - 5 (um)
+108: Pre Filter Q96TF-1 (hPa)
+109: Main Filter Q96TF-2 (hPa)
+110: Condition
+111: Temperature (deg. C)
+112: Temperature 1 (deg. C)
+113: Lube Oil Heater 1A (deg. C)
+114: Lube Oil Heater 1B (deg. C)
+115: Lube Oil Heater 1C (deg. C)
+116: Bearing Drain 1 (deg. C)
+117: Bearing Drain 2 (deg. C)
+118: Thrust Bearing (deg C)
+119: Red. Gear Bearing Drain GT (deg. C)
+120: Red. Gear Bearing Drain Generator (deg. C)
+121: Red. Gear Bearing Drain GT (deg. C).1
+122: Red. Gear Bearing Drain Generator (deg. C).1
+123: Generator Bearing TE (deg. C)
+124: Generator Bearing EE (deg. C)
+125: Lube Oli Tank Temp (deg. C)
+126: Lube Oli Tank Level (%)
+127: Lube Oil Bearing Header Pressure 1 (MPa)
+128: Lube Oil Bearing Header Pressure 2 (MPa)
+129: Lube Oil Bearing Header Pressure 3 (MPa)
+130: Lube Oil Bearing Header Pressure 4 (MPa)
+131: Nama
+132: OPERASI NORMAL

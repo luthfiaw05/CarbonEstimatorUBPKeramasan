@@ -1,0 +1,42 @@
+{
+    "_description": "Column mapping configuration for raw data import. Map YOUR column names to the model's expected names.",
+    "_instructions": "For each key below, replace the example value with YOUR actual column name from your CSV/Excel file.",
+    
+    "gt_operation": {
+        "timestamp": "Timestamp",
+        "fuel_gas_flow_kg_s": "Flow (Kgh)",
+        "gcv_position_pct": "LVDT 1 (%)",
+        "igv_position_deg": "LVDT 2 (%).1",
+        "ssrv_position_pct": "LVDT 2 (%)",
+        "gt_exhaust_temp_c": "Exhaust Temp (deg. C)",
+        "exhaust_duct_temp_c": "Exhaust Temp (deg. C)",
+        "wheel_space_temp_avg_c": "First Stage FFWD 1FO-1 (deg. C)",
+        "compressor_inlet_temp_c": "Inlet Temperature (deg. C)",
+        "compressor_discharge_pressure_bar": "Discharge Pressure (MPa)",
+        "generator_power_mw": "GT LOAD (MW)"
+    },
+    
+    "cems": {
+        "timestamp": "Timestamp",
+        "nox_mg_nm3": "NOx",
+        "sox_mg_nm3": "SOx",
+        "co_mg_nm3": "CO",
+        "pm_mg_nm3": "PM"
+    },
+    
+    "unit_conversions": {
+        "fuel_gas_flow_kg_s": "/ 3600",
+        "compressor_discharge_pressure_bar": "10"
+    },
+    
+    "settings": {
+        "gt_file_pattern": "*.xlsx",
+        "cems_file_pattern": "cems_*.xlsx",
+        "date_column": "6.14",
+        "time_column": "Pukul",
+        "timestamp_format": "auto",
+        "resample_freq": "1h",
+        "outlier_handling": "clip",
+        "outlier_std_threshold": 4
+    }
+}

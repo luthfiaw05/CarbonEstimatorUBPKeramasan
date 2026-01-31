@@ -1,0 +1,14 @@
+{
+  "feature_cols": [
+    "fuel_gas_flow_kg_s",
+    "gcv_position_pct",
+    "igv_position_deg",
+    "ssrv_position_pct",
+    "exhaust_duct_temp_c",
+    "wheel_space_temp_avg_c",
+    "compressor_inlet_temp_c",
+    "compressor_discharge_pressure_bar",
+    "generator_power_mw"
+  ],
+  "n_features": 9
+}
