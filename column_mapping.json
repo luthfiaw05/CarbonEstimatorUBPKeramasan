@@ -13,7 +13,11 @@
         "wheel_space_temp_avg_c": "First Stage FFWD 1FO-1 (deg. C)",
         "compressor_inlet_temp_c": "Inlet Temperature (deg. C)",
         "compressor_discharge_pressure_bar": "Discharge Pressure (MPa)",
-        "generator_power_mw": "GT LOAD (MW)"
+        "generator_power_mw": "GT LOAD (MW)",
+        "gt_second_stage_fwd_1_c": "SECOND STAGE FWD 2FO-1(DEG. C)",
+        "gt_second_stage_fwd_2_c": "SECOND STAGE FWD 2FO-2(DEG. C)",
+        "gt_second_stage_aft_1_c": "SECOND STAGE AFT 2AO-1(DEG. C)",
+        "gt_second_stage_aft_2_c": "SECOND STAGE AFT 2AO-2(DEG. C)"
     },
     
     "cems": {

@@ -99,7 +99,9 @@ FEATURE_COLS = [
     'fuel_gas_flow_kg_s', 'gcv_position_pct', 'igv_position_deg',
     'ssrv_position_pct', 'exhaust_duct_temp_c',
     'wheel_space_temp_avg_c', 'compressor_inlet_temp_c',
-    'compressor_discharge_pressure_bar', 'generator_power_mw'
+    'compressor_discharge_pressure_bar', 'generator_power_mw',
+    'gt_second_stage_fwd_1_c', 'gt_second_stage_fwd_2_c',
+    'gt_second_stage_aft_1_c', 'gt_second_stage_aft_2_c'
 ]
 
 FEATURE_DISPLAY = {
@@ -111,7 +113,11 @@ FEATURE_DISPLAY = {
     'wheel_space_temp_avg_c': ('Wheel Space Temp', '°C', 450.0, 490.0),
     'compressor_inlet_temp_c': ('Compressor Inlet Temp', '°C', 20.0, 35.0),
     'compressor_discharge_pressure_bar': ('Discharge Pressure', 'bar', 0.0, 5.0),
-    'generator_power_mw': ('Generator Power', 'MW', 18.0, 25.0)
+    'generator_power_mw': ('Generator Power', 'MW', 18.0, 25.0),
+    'gt_second_stage_fwd_1_c': ('2nd Stage Fwd 1', '°C', 500.0, 600.0),
+    'gt_second_stage_fwd_2_c': ('2nd Stage Fwd 2', '°C', 500.0, 600.0),
+    'gt_second_stage_aft_1_c': ('2nd Stage Aft 1', '°C', 500.0, 600.0),
+    'gt_second_stage_aft_2_c': ('2nd Stage Aft 2', '°C', 500.0, 600.0)
 }
 
 EMISSION_NAMES = {
